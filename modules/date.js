@@ -1,5 +1,6 @@
+import { DateTime } from './luxon.js';
+
 const date = document.querySelector('.date');
-import { DateTime } from "./luxon.js";
 
 const renderDate = () => {
   setInterval(() => {

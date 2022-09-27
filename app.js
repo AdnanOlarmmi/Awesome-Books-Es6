@@ -7,4 +7,3 @@ const awesomeBooks = new Library();
 awesomeBooks.addBook();
 awesomeBooks.renderBooks();
 renderDate();
-console.log(DateTime.now())
