@@ -60,7 +60,7 @@ git clone hhttps://github.com/AdnanOlarmmi/Awesome-Books-Es6.git
 
 - Navigate to the location of the folder in your machine:
 
-**`you@your-Pc-name:~$ cd <folder>`**
+**`you@your-Pc-name:~$ cd Awesome-Books-Es6`**
 
 ### Usage
 
